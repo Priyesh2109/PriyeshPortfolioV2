@@ -7,6 +7,7 @@
 #mainNav {
   min-height: 56px;
   background-color: #fff;
+  
 }
 
 #mainNav .navbar-toggler {
@@ -269,8 +270,11 @@
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+  
 }
-
+.img-fluid{
+  height: 100px;
+}
 a {
   color: #64a19d;
 }
